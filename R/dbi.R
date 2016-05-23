@@ -8,3 +8,7 @@ MonetDBLite <- monetdblite <- RMonetDBLite <- rmonetdblite <- function() {
   MonetDBLite::MonetDBLite()
 }
 
+src_monetdb <- function(...) {
+  .Deprecated("src_monetdb", package="MonetDBLite")
+  MonetDBLite::src_monetdb(...)
+}
