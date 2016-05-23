@@ -1,0 +1,2 @@
+export(MonetDB,MonetR,MonetDBR,MonetDB.R,RMonetDB)
+export(MonetDBLite,monetdblite,RMonetDBLite,rmonetdblite)
