@@ -1,10 +1,10 @@
 MonetR <- MonetDB <- MonetDBR <- MonetDB.R <- RMonetDB <- function() {
-  .Deprecated("Use MonetDBLite instead")
+  .Deprecated("MonetDBLite", pkg="MonetDBLite")
   MonetDBLite::MonetDB.R()
 }
 
 MonetDBLite <- monetdblite <- RMonetDBLite <- rmonetdblite <- function() {
-  .Deprecated("Use MonetDBLite instead")
+  .Deprecated("MonetDBLite", pkg="MonetDBLite")
   MonetDBLite::MonetDBLite()
 }
 
