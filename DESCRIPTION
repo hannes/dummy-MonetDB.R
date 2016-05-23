@@ -1,0 +1,7 @@
+Package: MonetDB.R
+Version: 10.0.0
+Title: MonetDB.R was moved to MonetDBLite, this is just a placeholder
+Author: Hannes Muehleisen [aut, cre]
+Maintainer: Hannes Muehleisen <hannes@cwi.nl>
+License: MPL (== 2.0)
+Description: MonetDB.R was moved to MonetDBLite, this is just a placeholder
